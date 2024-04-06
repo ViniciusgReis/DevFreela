@@ -1,0 +1,17 @@
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.deps.json
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.runtimeconfig.json
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.dll
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.pdb
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Core.dll
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Core.pdb
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.dll
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\refint\DevFreela.Infrastructure.dll
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.pdb
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\ref\DevFreela.Infrastructure.dll
